@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>  About Page </title>
+	</head>
+
+	<body>
+
+		<h1>  About Us  </h1>
+		<p>  This is some text about us </p>
+		<h2> 2nd  </h2>
+		<p>  Blah Blah Blah </p>
+		<h2> blah blah blah  </h2>
+		<p> more blah </p>
+
+		<s href="google.com"> Click link to Google </s>
+
+		<ol>   </ol>
+		<ul>   </ul>
+		
+
+	 </body>
+
+</html>
